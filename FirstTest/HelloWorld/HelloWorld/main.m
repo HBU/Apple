@@ -13,5 +13,16 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         NSLog(@"Hello, World!");
     }
+    NSInteger s = 10;
+    BOOL a = YES;
+    BOOL b = TRUE;
+    
+    NSString *str = @"This is my first OC code.";
+    
+    NSLog(@"%@",str);
+    
+    NSRange rang = {1,3};
+    NSMakeRange(1, 3);
+    
     return 0;
 }
