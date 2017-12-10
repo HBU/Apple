@@ -28,4 +28,4 @@
     return 0;//返回值
  }
 ```
-## [自动释放池](http://www.jianshu.com/p/1b66c4d47cd7)
+## [自动释放池](http://www.jianshu.com/p/1b66c4d47cd7)：OC中的一种内存自动回收机制，它可以延迟加入AutoreleasePool中的变量release的时机
