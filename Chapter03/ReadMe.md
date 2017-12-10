@@ -1,7 +1,7 @@
 # 第三章 类 对象 方法
 - 单词扩展：numerator：分子；denominator分母
 
-```object-c
+```Objective-C
 #import <Foundation/Foundation.h>
 
 @interface Fraction:NSObject
