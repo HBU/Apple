@@ -50,7 +50,8 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-        Fraction *myFraction = [[Fraction alloc] init]; //定义对象（实例化）【Fraction myFraction = new Fraction();】
+        Fraction *myFraction = [[Fraction alloc] init]; 
+        //定义对象（实例化）【Fraction myFraction = new Fraction();】
         [myFraction setNumerator:1];//给对象赋值【myFraction.setNumerator(1);】
         [myFraction setDenominator:3];
         
