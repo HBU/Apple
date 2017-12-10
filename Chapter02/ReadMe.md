@@ -5,7 +5,7 @@
 ```Objective-C
  #import <Foundation/Foundation.h> //引用Foundation框架
  int main(int argc, const char * argv[]) {// 主函数，返回值为整形
-     @autoreleasepool {//[自动释放池](http://www.jianshu.com/p/1b66c4d47cd7)，初学者不必在此纠结，先用着。将来学深入了再去了解不晚。
+     @autoreleasepool {//自动释放池，初学者不必在此纠结，先用着。将来学深入了再去了解不晚。
         // insert code here... 这里写代码
 
         NSLog(@"Programming is fun!");//输出字符串 类似printf
@@ -25,4 +25,4 @@
     return 0;//返回值
  }
 
-
+## [自动释放池](http://www.jianshu.com/p/1b66c4d47cd7)
