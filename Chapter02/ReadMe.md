@@ -1,7 +1,8 @@
 # 第二章 Object C 编程
 
-## 了解程序结构
-```object c
+## 了解程序结构 和 输出语句
+
+```Objective-C
  #import <Foundation/Foundation.h> //引用Foundation框架
  int main(int argc, const char * argv[]) {// 主函数，返回值为整形
      @autoreleasepool {//
