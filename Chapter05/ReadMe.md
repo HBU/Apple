@@ -1,6 +1,6 @@
-# Object C 
-## kk
-### llll
-- q
-- qqq
-[HBU](http://www.hbu.cn)
+# 循环
+## 基本和C语言是一样的
+## for 
+## while 
+## do...while
+## break; continue
