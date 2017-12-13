@@ -60,3 +60,7 @@ int main(int argc, const char * argv[]) {
  HBU[^1]
 
  [^1]: He Bei University
+hello[^hello]
+
+
+[^hello]: hi
