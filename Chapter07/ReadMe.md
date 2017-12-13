@@ -11,7 +11,7 @@
 >>1. 在动态方法中，self代表着"对象"
 >>2. 在静态方法中，self代表着"类"
 >>3. 万变不离其宗，记住一句话就行了：self代表着当前方法的调用者
->>ref：
+>>>- ref：
 >>>>http://blog.csdn.net/fww330666557/article/details/43232593
 >>>>http://blog.csdn.net/fightper/article/details/6836550
 
