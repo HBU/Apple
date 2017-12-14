@@ -1,7 +1,7 @@
 # 多态
-- 动态绑定 和 id类型
-- isKindOfClass
-- isMemberOfClass
+- 动态绑定 和 id类型  
+Ref:http://blog.csdn.net/zhangmiaoping23/article/details/42489771
+- isKindOfClass / isMemberOfClass
   - 相同点:  
   *都是NSObject的比较Class的方法.*  
   - 不同点:  
