@@ -16,7 +16,8 @@ Ref:http://blog.csdn.net/zwcshy/article/details/32322031
 
 }
 
-- 然后实现并调用   
+    然后实现并调用   
+    
 ```Objective-C
     NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
     Person *person = [[Person alloc] init];
